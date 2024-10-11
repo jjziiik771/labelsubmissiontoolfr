@@ -8,4 +8,4 @@ npm install
 ```
 npm run dev
 ```
-3. Be sure that Backend Server is running and modify rutes from relatie url ex: "/submit" to "http://locahost:8000/submit/"
+3. Be sure that Backend Server is running and modify routes from relative url ex: "/submit" to "http://locahost:8000/submit/"
